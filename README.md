@@ -1,5 +1,5 @@
 # RF-19 SENSE2CAN Module
-The SENSE2CAN module is a SAMC21-based CAN bus DAQ module for Ryerson Formula Racing's RF-19 vehicle.
+The SENSE2CAN module is a SAMC21-based CAN bus DAQ module both hardware and software.
 
 ![Front render](Images/3D_front.png)
 
